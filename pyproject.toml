@@ -21,7 +21,7 @@ torchvision = "^0.13.1"
 opencv-python = "4.6.0.66"
 h5py = "3.1.0"
 tqdm = "4.61.2"
-huggingface-hub = "^0.0.13"
+huggingface-hub = "^0.8.1"
 
 [tool.poetry.dev-dependencies]
 # formatting, quality, tests
