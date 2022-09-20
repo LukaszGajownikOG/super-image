@@ -15,10 +15,10 @@ keywords = []
 packages = [ { include = "super_image", from = "src" } ]
 
 [tool.poetry.dependencies]
-python = "^3.6.2"
-torch = "1.9.0"
-torchvision = "0.10.0"
-opencv-python = "4.5.2.54"
+python = "^3.10"
+torch = "^1.12.0"
+torchvision = "^0.13.1"
+opencv-python = "4.6.0.66"
 h5py = "3.1.0"
 tqdm = "4.61.2"
 huggingface-hub = "^0.0.13"
